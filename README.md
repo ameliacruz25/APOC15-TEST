@@ -1,2 +1,5 @@
-# APOC15-TEST
-# This is the begining of the graph testing in JavaScript 
+# Test-GraphicalTools
+#Testing differents ways to feed data with charts libraries
+at the moment 3 files going to be created: index to put my webb application from the data chart
+data chart 
+A style page
